@@ -1,0 +1,17 @@
+Transaction
+1. Write a query to implement the transaction process.
+1.1) set autocommit off
+1.2) set the transaction with specified name
+1.3) Perform the transaction process
+1.4) commit the process
+1.5) set the transaction with specified name
+1.6) Perform the transaction process
+1.7) Rollback the process.
+2. Write a query to implement the transaction process.
+2.1) set autocommit off
+2.2) set the save point with specified name
+2.3) Perform the transaction process
+2.4) commit the process
+2.5) set the save point with specified name
+2.6) Perform the transaction process
+2.7) Rollback the process till the specified save point set in 2.5.
