@@ -1,0 +1,4 @@
+DBMS Basic Operation
+1. Create a table with number and character data type
+2. Alter the table by adding new column after the table is created.
+3. Alter the table by removing new column after the table is created.
