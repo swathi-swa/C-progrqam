@@ -1,0 +1,24 @@
+Like and Regular Expression
+1. Write a query to check whether the data is matched with to match any string of any length 
+2. Write a query to check whether the data is matched with to match on a single character
+3. Write a query to check whether the data is not matches to match any string of any length 
+4. Write a query to check whether the data is not matches to match on a single character.
+5. Write a query to with regular expression to check the following conditions:
+^
+$
+*
++
+.
+|
+[ ]
+[^ ]
+( )
+\d
+\D
+\w
+\W
+\s
+\S
+\A
+\Z
+6. Write a query to with regular expression to check the conditions with match parameter:
