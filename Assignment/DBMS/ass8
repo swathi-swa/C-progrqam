@@ -1,0 +1,7 @@
+Constraint - Check
+1. Write a query to create the table with check constraint.
+2. Write a query to create the table with check constraint by setting the name for check constraint.
+3. Write a query to set check constraint using alter query after the table is created.
+4. Write a query to deleted the check constraint.
+5. Write a query to disable the check constraint. 
+6. Write a query to enable the check constraint.
