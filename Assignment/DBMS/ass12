@@ -1,0 +1,20 @@
+Date functions
+1. Write a query to create the table with date field.
+2. Write a query to create the table with date field which should store current date by default.
+3. Write a query to insert the data in the above table.
+4. Write a query to create the table with timestamp field.
+5. Write a query to create the table with timestamp field which should store current date by default.
+6. Write a query to insert the data in the above table.
+7. Write a query to evaluate the following date methods
+7.1 ADD_MONTHS
+7.2 CURRENT_DATE
+7.3 CURRENT_TIMESTAMP
+7.4 DBTIMEZONE
+7.5 EXTRACT(datetime) (Extract YEAR,MONTH,DAY,HOUR,MINUTE,SECOND from the data field)
+7.6 LAST_DAY
+7.7 LOCALTIMESTAMP
+7.8 MONTHS_BETWEEN
+7.9 NEXT_DAY
+7.10 SYSDATE
+7.11 SYSTIMESTAMP
+7.12 TO_CHAR(datetime)
