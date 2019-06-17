@@ -1,0 +1,7 @@
+Constraint - Unique Key
+1. Write a query to create the table with primary key.
+2. Write a query to create the table with primary key by setting the name for primary key.
+3. Write a query to set primary key using alter query after the table is created.
+4. Write a query to deleted the primary key.
+5. Write a query to disable the primary key. 
+6. Write a query to enable the primary key.
