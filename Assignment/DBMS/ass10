@@ -1,0 +1,18 @@
+String Functions
+Write a query to execute the following string functions in oracle db
+1. CHR
+2. CONCAT
+3. LENGTH
+4. INITCAP
+5. LOWER
+6. UPPER
+7. LPAD
+8. RPAD
+9. LTRIM
+10. RTRIM
+11. TRIM
+12. REPLACE
+13. SUBSTR
+14. INSTR
+15. NCHR
+16. ASCII
