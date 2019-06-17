@@ -1,0 +1,22 @@
+Constraint - Foreign Key
+1. Write a query to create the parent table (spd) with columns (id,name,addr,pno)
+and child table (smd) with columns (id,m1,m2,m3) by setting foreign key reference to parent table id column.
+1.1. Write a query to insert data in spd and smd with same id number.
+1.2. Write a query to insert data in smd with id number not in spd.
+1.3. Write a query to delete data in smd and spd with same id number.
+1.4. Write a query to delete data in spd with data available for the specified id number in smd.
+
+2. Write a query to create the parent table (spd) with columns (id,name,addr,pno)
+and child table (smd) with columns (id,m1,m2,m3) by setting foreign key reference to parent table id column by setting cascade on delete.
+2.1. Write a query to insert data in spd and smd with same id number.
+2.2. Write a query to insert data in smd with id number not in spd.
+2.3. Write a query to delete data in smd and spd with same id number.
+2.4. Write a query to delete data in spd with data available for the specified id number in smd.
+
+
+3. Write a query to create the parent table (spd) with columns (id,name,addr,pno)
+and child table (smd) with columns (id,m1,m2,m3) by setting foreign key reference to parent table id column by setting set null on delete.
+3.1. Write a query to insert data in spd and smd with same id number.
+3.2. Write a query to insert data in smd with id number not in spd.
+3.3. Write a query to delete data in smd and spd with same id number.
+3.4. Write a query to delete data in spd with data available for the specified id number in smd.
