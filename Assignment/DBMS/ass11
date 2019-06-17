@@ -1,0 +1,23 @@
+Numeric Function
+Write a query to execute the following numeric functions.
+
+1. ABS
+2. ROUND
+3. MOD
+4. REMAINDER
+5. POWER
+6. TRUNC
+7. CEIL
+8. FLOOR
+9. SQRT
+10. SIGN
+11. LOG
+12. SIN
+13. COS
+14. TAN
+15. ASIN
+16. ACOS
+17. ATAN
+18. BITAND
+19. EXP
+20. LN
