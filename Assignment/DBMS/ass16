@@ -1,0 +1,8 @@
+SubQuery
+Write a query to illustrate the following process
+1. Independent subquery implemented in select process.
+2. Independent subquery implemented in from process.
+3. Independent subquery implemented in where process.
+4. Independent subquery implemented in having process.
+5. Correlated subquery implementation in where condition.
+6. Correlated subquery implementation in having class
