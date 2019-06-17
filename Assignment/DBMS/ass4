@@ -1,0 +1,7 @@
+DBMS - DML
+1. Write a query to select the row by setting alias name to column name.
+2. Write a query to select the row based on specified condition.
+3. Write a query to update the row.
+4. Write a query to update the row based on specified condition.
+5. Write a query to delete the row.
+6. Write a query to delete the row based on specified condition.
